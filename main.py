@@ -1,3 +1,6 @@
-print("hello world")
-print("Hello world")
-print("new_branch")
+import turtle as t
+t.color("red")
+for i in range(4):
+    t.forward(100)
+    t.left(90)
+t.mainloop()
