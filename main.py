@@ -10,3 +10,8 @@ for i in range(99):
     t.left(89)
 
 t.mainloop()
+
+
+a = 5
+d = 6
+print(a-d)
